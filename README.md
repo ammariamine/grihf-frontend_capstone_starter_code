@@ -1,0 +1,2 @@
+When a user accesses the website using a URL, they will see a landing page. This landing page has a navigation bar with options to navigate through the different features of the website, such as login, sign up, appointments, and reviews. 
+There are four services. The first two services, instant consultation and book an appointment, are available to registered users. However, self checkup and health tips and guidance are services available to all users. The contents of the health tips and guidance show several tips. 
